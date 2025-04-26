@@ -30,3 +30,4 @@ function calcularQtdConsumoRacao(nomeDog, pesoDog, estoqueRacao) {
 
 calcularQtdConsumoRacao(`Pingo`, 20, 5000)
 calcularQtdConsumoRacao(`Tobby`, 5, 1000)
+calcularQtdConsumoRacao(`Panda`, 15, 1000)
