@@ -58,10 +58,10 @@ let tamanho = 'M'
 
 /* 'Turma' - aspas simples ou single quote
    "Turma" - aspas duplas ou double quote
-   'Turma' - tamplate strings */
+   `Turma` - tamplate strings */
 
 const turma = "02"
 
 console.log("Aula 03 da Turma " + turma + " no sábado 05 de abril.")
 
-console.log(`Aula 03 da Turma ${turma} no sábado 05 de abril`) // interpolação
+console.log(`Aula 03 da Turma ${turma} no sábado 05 de abril com crase`) // interpolação
