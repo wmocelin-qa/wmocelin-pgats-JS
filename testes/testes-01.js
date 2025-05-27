@@ -11,6 +11,6 @@ describe('Testes do Projeto', () => {
     })
 
     it('Segundo teste', () => {
-        
+    throw new Error('Teste falhou!')
     })
 })
